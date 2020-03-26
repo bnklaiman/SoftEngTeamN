@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/SoftEngTeamN.iml" filepath="$PROJECT_DIR$/SoftEngTeamN.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/CS3733-Starter-Code-master.iml" filepath="$PROJECT_DIR$/.idea/modules/CS3733-Starter-Code-master.iml" />
     </modules>
   </component>
 </project>
