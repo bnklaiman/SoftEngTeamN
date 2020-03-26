@@ -10,7 +10,7 @@ public class Main {
     System.out.println("Winnie Ly");
     System.out.println("Michael Lai");
     System.out.println("Robear Mankaryous");
-    System.out.println("Noah Darveau");
+    System.out.println("Josh Hoy");
     App.launch(App.class, args);
   }
 }
